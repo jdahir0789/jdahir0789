@@ -7,7 +7,7 @@
   </p>
 <br>
 
-<p><img align="right" src="https://github.com/jdahir0789/jdahir0789/blob/main/animation_500_kxa883sd.gif" alt="jdahir0789" /></p>
+<p><img align="right" src="https://cardpress.us/card?username=jdahir0789&headerColor=f45b31&subHeaderColor=b0b3b5&nameColor=ffffff&badgeLabelColor=f5f5f5&foreground=2a2e31&background=111111&badges=true&header=true&refresh=true&link=true&avatar=true" alt="jdahir0789" /></p>
 
 
 - 🌱 I am currently working at KrishaWeb where I’m trying my best to build great software and user experiences.
