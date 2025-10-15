@@ -41,13 +41,19 @@ Currently, I’m crafting high-performing websites at **[KrishaWeb](https://www.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jdahir0789&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jdahir0789&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" alt="GitHub Stats" width="80%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdahir0789&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&text_color=FFFFFF" width="48%" alt="Top Languages" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdahir0789&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&text_color=FFFFFF" width="80%" alt="Top Languages" />
 </div>
 
+---
+
+<!-- 📊 GitHub Stats Section -->
+<h2 align="center">📊 WordPress Analytics</h2>
 <div align="center">
-  <img src="https://camo.githubusercontent.com/e8d07e31af243a9190d5a24e81477ef12c737b7363d80bf7764951cf7e3d1c57/68747470733a2f2f6361726470726573732e75732f636172643f757365726e616d653d6a64616869723037383926686561646572436f6c6f723d66343562333126737562486561646572436f6c6f723d623062336235266e616d65436f6c6f723d6666666666662662616467654c6162656c436f6c6f723d66356635663526666f726567726f756e643d326132653331266261636b67726f756e643d313131313131266261646765733d74727565266865616465723d7472756526726566726573683d74727565266c696e6b3d74727565266176617461723d74727565" width="96%" alt="WordPress Profile">
+  <img src="https://camo.githubusercontent.com/e8d07e31af243a9190d5a24e81477ef12c737b7363d80bf7764951cf7e3d1c57/68747470733a2f2f6361726470726573732e75732f636172643f757365726e616d653d6a64616869723037383926686561646572436f6c6f723d66343562333126737562486561646572436f6c6f723d623062336235266e616d65436f6c6f723d6666666666662662616467654c6162656c436f6c6f723d66356635663526666f726567726f756e643d326132653331266261636b67726f756e643d313131313131266261646765733d74727565266865616465723d7472756526726566726573683d74727565266c696e6b3d74727565266176617461723d74727565" width="80%" alt="WordPress Profile">
 </div>
 
 ---
